@@ -364,7 +364,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     chat_id=query.from_user.id,
                     file_id=file_id,
                     caption=f_caption,
-                    protect_content=True if ident == "filep" else False 
+                    protect_content=True if ident == "filep" else False,
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📣 UPDATES CHANNEL 📣", url='https://t.me/Mallu_Movie_Hub_Group')]]
                 )
                 await query.answer('**Already Sent In your Pm**', show_alert=True)#SNT PM FILE CAp
         except UserIsBlocked:
