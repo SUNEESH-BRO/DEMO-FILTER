@@ -9,7 +9,7 @@ class script(object):
 
 <b>○ Available Commands..🔮</b>
 """
-    ABOUT_TXT = """<b><blockquote>◎ Nᴀᴍᴇ: ᴋᴜᴛᴛᴜ ʙᴏᴛ™</blockquote>
+    ABOUT_TXT = """<b><blockquote>◎ Nᴀᴍᴇ: DARSHAN</blockquote>
 ◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/d_Vittal_911545>DACCHU</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
