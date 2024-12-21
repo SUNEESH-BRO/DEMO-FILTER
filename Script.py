@@ -7,7 +7,7 @@ class script(object):
     HELP_TXT = """
     <blockquote>🙋🏻‍♂️   Hello  {} 🤓</blockquote>
 
-<b>○ Available Commands..🔮</b>
+<b>○ Here me my help Commands..🔮</b>
 """
     ABOUT_TXT = """<b><blockquote>◎ Nᴀᴍᴇ: DARSHAN</blockquote>
 ◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/d_Vittal_911545>DACCHU</a>
