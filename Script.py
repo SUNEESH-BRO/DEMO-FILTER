@@ -5,7 +5,7 @@ class script(object):
 
 <blockquote>©️ Maintained By @d_Vittal_911545</blockquote>"""
     HELP_TXT = """
-    <blockquote>🙋🏻‍♂️   Hellooo  {} 🤓</blockquote>
+    <blockquote>🙋🏻‍♂️   Hello  {} 🤓</blockquote>
 
 <b>○ Available Commands..🔮</b>
 """
@@ -15,7 +15,7 @@ class script(object):
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Source - <ahref=https://github.com>Click Here😂</a>
+- Repo link - <ahref=https://github.com>Click Here😂</a>
 
 <b>DEVS:</b>
 -<blockquote> <a href=https://t.me/d_Vittal_911545>DACCHU ✅</a></blockquote>"""
@@ -108,7 +108,7 @@ Added By - {}
 FɪʟᴇSɪᴢᴇ : {file_size}
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/> ᴇʟᴅᴏʀᴀᴅᴏ </a>
+▫️<a href=https://t.me/+iEbhY7mM4oE1OTVl> Join Here </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     
