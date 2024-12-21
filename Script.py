@@ -104,12 +104,9 @@ Added By - {}
 """
     RESULT_TXT="""<blockquote>Eᴅᴀᴀ Mᴏɴᴇʜ </blockquote>I Fᴏᴜɴᴅ Iɴ Mʏ Dʙ Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ {}"""
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-FɪʟᴇSɪᴢᴇ : {file_size}
+    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :</b> <code>{file_name}</code>
 
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/+iEbhY7mM4oE1OTVl> Join Here </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+<b>📟FɪʟᴇSɪᴢᴇ : {file_size}</b>"""
 
     
     RESTART_GC_TXT = """
