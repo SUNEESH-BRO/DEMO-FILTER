@@ -364,8 +364,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     chat_id=query.from_user.id,
                     file_id=file_id,
                     caption=f_caption,
+                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📣 UPDATES CHANNEL 📣", url='https://t.me/DVITTALKANNADAMOVIE')]]),
                     protect_content=True if ident == "filep" else False,
-                    reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📣 UPDATES CHANNEL 📣", url='https://t.me/DVITTALKANNADAMOVIE')]]
                 )
                 await query.answer('**Already Sent In your Pm**', show_alert=True)#SNT PM FILE CAp
         except UserIsBlocked:
@@ -401,8 +401,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             chat_id=query.from_user.id,
             file_id=file_id,
             caption=f_caption,
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📣 UPDATES CHANNEL 📣", url='https://t.me/DVITTALKANNADAMOVIE')]]),
             protect_content=True if ident == 'checksubp' else False,
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📣 UPDATES CHANNEL 📣", url='https://t.me/DVITTALKANNADAMOVIE')]]
         )
     elif query.data == "pages":
         await query.answer()
